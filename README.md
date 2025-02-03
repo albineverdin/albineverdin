@@ -1,4 +1,8 @@
-# Hi diva 🎀
+<h1>Hi diva 🎀</h1>
+
+🧸 MSc Student from Northern Sweden
+📚 Currently learning responsive webdev
+💌 Say hi!
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
